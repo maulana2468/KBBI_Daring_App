@@ -1,5 +1,5 @@
 # KBBI Daring App
-Kamus Besar Bahasa Indonesia Daring
+Kamus Besar Bahasa Indonesia Daring Unofficial App
 
 API from: https://kbbi-api-zhirrr.vercel.app/
 ## Download
